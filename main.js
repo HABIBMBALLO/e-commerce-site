@@ -1,3 +1,4 @@
+// I like js (lombatech)
 const menu = document.querySelector(".ham");
 const nav_links = document.querySelector(".nav-links");
 let ind = true;
